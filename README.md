@@ -1,6 +1,6 @@
-Samantha Ferris
+## **Samantha Ferris**
 
-  Mr. Mueller 
+#### Mr. Mueller 
   
   High School of Telecommuicational Arts and Technology
   
@@ -8,7 +8,7 @@ Samantha Ferris
   
   Samantha Ferris was born and raised in Brooklyn New York, 2000. She has always been interested in the science field and is exploring it more by taking a computer science calss with Mr. Mueller.
   
-  Schedule:
+ ### _**Schedule:**_
   1. Gym
   2. Regents Physics
   3. ELA
@@ -17,4 +17,10 @@ Samantha Ferris
   6. Advanced Algebra
   7. US History
   8. Spanish 5
+
+### _**Hobbies**_
+
+* Watching TV
+* Playing games
+* Reading
   
